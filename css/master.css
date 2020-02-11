@@ -54,7 +54,7 @@ body {
 }
 @media print {
   body {
-    font: 500 10px PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
+    font: 500 12px PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
   }
   body a {
     text-decoration: underline;
@@ -220,11 +220,11 @@ body {
 }
 .term .main a {
   color: #D0648A;
-  text-shadow: 1px 1px 1px #f2bed1;
+  /* text-shadow: 1px 1px 1px #f2bed1; */
 }
 .term .main b {
   color: #D0648A;
-  text-shadow: 1px 1px 1px #f2bed1;
+  /* text-shadow: 1px 1px 1px #f2bed1; */
 }
 .term .main a:hover {
   text-decoration: underline;
